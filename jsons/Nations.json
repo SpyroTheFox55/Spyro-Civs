@@ -52,9 +52,9 @@
 		"defeated": "",
 		"introduction": "",
 
-		"neutralHello": "Oh, Hi! How are you?",
+		"neutralHello": "Oh, Hi! How are you, yip?",
 		"neutralLetsHearIt": ["What's up?","Let's hear it!","hmm?"],
-		"neutralNo": ["No thanks.","Sorry, can't do that, yip.",""],
+		"neutralNo": ["No thanks.","Sorry, can't do that, yip.","No thanks, yip."],
 		"neutralYes": ["","",""],
 
 		"hateHello": "",
