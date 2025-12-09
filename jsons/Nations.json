@@ -1,18 +1,18 @@
 [
 	{
 		"name": "Votros",
-		"leaderName": "Agatha",
+		"leaderName": "Agatha IV",
 		"adjective": ["votros"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "Greetings, O mighty Queen Agatha Crowley IV. ",
 		"startIntroPart2": "",
 		
 		"declaringWar": "I regret to inform you that we have declared war on your empire. Good day to you.",
-		"attacked": "",
+		"attacked": "I am disappointed in you. I thought you harboured good intentions, but it appears I was wrong.",
 		"defeated": "Our capital has been compromised. This is truly a dark day for the Votroan empire.",
-		"introduction": "Hello there. I am Agatha IV, the Queen of Votros. I hope we can pursue a beautiful friendship between our nations.",
+		"introduction": "Hello there. I am Agatha IV, the Queen of Votros. I hope we can establish a beautiful friendship between our nations.",
 		
 		"neutralHello": "Greetings! How are you, my friend?",
 		"neutralLetsHearIt": ["Go on.","Continue.","You may speak."],
