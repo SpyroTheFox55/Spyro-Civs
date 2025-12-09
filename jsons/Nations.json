@@ -24,13 +24,13 @@
 		"hateNo": ["Did you think we'd agree to those terms?","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": ".",
+		"afterPeace": "Good. Let us celebrate our newfound peace this day!",
 		"tradeRequest": "Is this offer acceptable for you?",
 		"denounced": "I am shocked you would say such a thing!",
 
 		"outerColor": [13,59,102],
 		"innerColor": [255,121,108],
-		"uniqueName": "",
+		"uniqueName": "Maritime Unity",
 		"uniques": [""]
 		"cities": ["Crawford","Clover","Pylon","Torchfield","Bugbell","Pegasus","Sunshire","Halberd","Windfall",
 			"Fiddleford","Stonecloud","Redwood","Umbra Town","Solarpass","Mudslide","Firebrand","Waterlink","Fishrend","Cloudswrath",
