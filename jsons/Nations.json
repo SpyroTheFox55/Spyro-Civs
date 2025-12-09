@@ -53,8 +53,8 @@
 		"introduction": "",
 
 		"neutralHello": "Oh, Hi! How are you?",
-		"neutralLetsHearIt": ["","",""],
-		"neutralNo": ["","",""],
+		"neutralLetsHearIt": ["What's up?","Let's hear it!","hmm?"],
+		"neutralNo": ["No thanks.","Sorry, can't do that, yip.",""],
 		"neutralYes": ["","",""],
 
 		"hateHello": "",
