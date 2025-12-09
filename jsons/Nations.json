@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Votros",
+		"name": "Athain",
 		"leaderName": "Agatha IV",
-		"adjective": ["votros"],
+		"adjective": ["athain"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Greetings, O mighty Queen Agatha IV. In your world, Votros is an island country that, as you'd expect, has a relatively powerful navy. In the year 1843 CE, you started your reign at the young age of 15, during which you unified the island's kingdoms under a single banner in 1858. While you unfortunately passed away at the age of 34, your people have not forgotten your deeds during an era of chaos for Votros.",
+		"startIntroPart1": "Greetings, O mighty Queen Agatha IV. In your world, Athain is an island country that, as you'd expect, has a relatively powerful navy. In the year 1843 CE, you started your reign at the young age of 15, during which you unified the island's kingdoms under a single banner in 1858. While you unfortunately passed away at the age of 34, your people have not forgotten your deeds during an era of chaos for Athain.",
 		"startIntroPart2": "Now then, your royal highness, will you be able to unify your kingdom and lead your people to a new age of prosperity once again?",
 		
 		"declaringWar": "I regret to inform you that we have declared war on your empire. Good day to you.",
 		"attacked": "I am disappointed in you. I thought you harbored good intentions, but it appears I was wrong.",
-		"defeated": "Our capital has been compromised. This is truly a dark day for the Votroan people.",
-		"introduction": "Hello there. I am Agatha IV, the Queen of Votros. I hope we can establish a beautiful friendship between our nations.",
+		"defeated": "Our capital has been compromised. This is truly a dark day for the Athainian people.",
+		"introduction": "Hello there. I am Agatha IV, the Queen of Athain. I hope we can establish a beautiful friendship between our nations.",
 		
 		"neutralHello": "Greetings! How are you, my friend?",
 		"neutralLetsHearIt": ["Go on.","Continue.","You may speak."],
