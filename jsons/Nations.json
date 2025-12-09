@@ -1,15 +1,15 @@
 [
 	{
-		"name": "Saurenistan",
-		"leaderName": "Tyrannos",
-		"adjective": ["dino"],
-		"startBias": ["Jungle", "Forest"],
-		"preferredVictoryType": "Domination",
+		"name": "Votros",
+		"leaderName": "Agatha",
+		"adjective": ["votros"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "",
 		
-		"startIntroPart1": "All hail the Great King Rexor Tyrannos!",
-		"startIntroPart2": "May your enemies tremble beneath your feet!",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
-		"declaringWar": "PREPARE TO BE DESTROYED!!!!",
+		"declaringWar": "",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "Greetings! I, the Great King Rexor Tyrannos, welcome you on behalf of the Saurenistan people!",
@@ -19,8 +19,8 @@
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateHello": "Oh... It's you.",
+		"hateLetsHearIt": ["Speak!","What do you want?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
