@@ -28,13 +28,13 @@
 		"tradeRequest": "Is this offer acceptable for you?",
 		"denounced": "I am shocked you would say such a thing!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [13,59,102],
+		"innerColor": [255,121,108],
 		"uniqueName": "",
 		"uniques": [""]
-		"cities": ["Crawford","","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Crawford","Clover","Pylon","Torchfield","Bugbell","Pegasus","Sunshire","Halberd","Windfall",
+			"Fiddleford","Stonecloud","Redwood","Umbra Town","Solarpass","Mudslide","Firebrand","Waterlink","Fishrend","Cloudswrath",
+			"Goldhedge","Silverfield","Bronzepath","Frogshore","Nightwatch","Overgrowth","Vinewall","Dogport","Catrock","Bluecross",
+			"Wayfair","Silksong","Flagpole","Greencoil","Snakeyard","Grassland"]
 	}
 ]
