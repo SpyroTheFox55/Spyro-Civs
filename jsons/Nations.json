@@ -38,11 +38,11 @@
 			"Wayfair","Silksong","Flagpole","Greencoil","Snakeyard","Grassland"]
 	},
 	{
-		"name": "Kufox",
-		"leaderName": "",
-		"adjective": ["kufox"],
-		"startBias": [""],
-		"preferredVictoryType": "",
+		"name": "Kufawks",
+		"leaderName": "Fennera",
+		"adjective": ["Fox"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -52,7 +52,7 @@
 		"defeated": "",
 		"introduction": "",
 
-		"neutralHello": "",
+		"neutralHello": "Oh, Hi! How are you?",
 		"neutralLetsHearIt": ["","",""],
 		"neutralNo": ["","",""],
 		"neutralYes": ["","",""],
@@ -70,7 +70,7 @@
 		"innerColor": [255,121,108],
 		"uniqueName": "",
 		"uniques": [""],
-		"cities": ["Crawford","Clover","Pylon","Torchfield","Bugbell","Pegasus","Sunshire","Halberd","Windfall",
+		"cities": ["Fawks City","Clover","Pylon","Torchfield","Bugbell","Pegasus","Sunshire","Halberd","Windfall",
 			"Fiddleford","Stonecloud","Redwood","Umbra Town","Solarpass","Mudslide","Firebrand","Waterlink","Fishrend","Cloudswrath",
 			"Goldhedge","Silverfield","Bronzepath","Frogshore","Nightwatch","Overgrowth","Vinewall","Dogport","Catrock","Bluecross",
 			"Wayfair","Silksong","Flagpole","Greencoil","Snakeyard","Grassland"]
