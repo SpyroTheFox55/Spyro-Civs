@@ -38,13 +38,13 @@
 			"Wayfair","Silksong","Flagpole","Greencoil","Snakeyard","Grassland"]
 	},
 	{
-		"name": "Kufawks",
+		"name": "Vulperos",
 		"leaderName": "Fennira",
 		"adjective": ["Fox"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 
-		"startIntroPart1": "Welcome,  Fennira. In your world, you led the ",
+		"startIntroPart1": "Welcome, Prime Minister Fennira. In your world, you led the fox country of Vulperos from 1988 to 1995 CE as its Prime Minister, starting at age 21. This is because of your father pulling a few strings, foolishly hoping you'd help him consolidate power, not realizing your hatred of him and lack of education in the realm of politics. Despite your father's wishes, you tried your best to focus your efforts on helping your people and improving relations with other nations, among other things. In 1995, you decided to resign before the end of your term and pass the torch to a more capable candidate.",
 		"startIntroPart2": "",
 
 		"declaringWar": "I didn't want to do it, but my advisors told me I have to declare war on you, yip.",
@@ -71,10 +71,10 @@
 		"uniqueName": "Vulpine Genes",
 		"uniques": ["Comment [All units are anthropomorphic foxes rather than humans. This does not affect gameplay.]", "Research [+25]% of [Animal Husbandry] <starting from the [Ancient era]>", 
 			"[+1] Range <for [Ranged] units>", "Gain an extra spy <upon entering the [Renaissance era]>"],
-		"cities": ["Fawks City","Fennix","Redfield","Cape Rev","Tilki","Vos Town","Vulpine Ridge","Alopeke City","Lomri City",
+		"cities": ["Vulpes City","Fennix","Redfield","Cape Rev","Tilki","Vos Town","Vulpine Ridge","Alopeke City","Lomri City",
 			"Foxtrot","Cape Hu","Redwood","Mickel City","McCloud","Cape Renard","Zorro Town","Blanford","Ruppelli","Skulk",
 			"Tailbrush","Velox","Zerda City","Lagopus","Crystal Cove","Foxville","Chama Ridge","Griseus City","Cerdos Cove","Megalotis City",
-			"Raposa Town","Lisville","Delphine","Fawks' Ember","Roka City","Refur's Coast"],
+			"Raposa Town","Lisville","Delphine","Fox's Ember","Roka City","Refur's Coast"],
 		"spyNames": ["Reynard", "Zorro", "Audie", "James", "Spyro", "Artie", "Dr. Gray", "Vixen", "Quincy", "Ember"] 
 	}
 ]
