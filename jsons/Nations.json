@@ -69,7 +69,7 @@
 		"outerColor": [251,175,0],
 		"innerColor": [251,80,18],
 		"uniqueName": "Vulpine Genes",
-		"uniques": ["Research [+30]% of [Archery] <starting from the [Ancient era]>"],
+		"uniques": ["Research [+25]% of [Animal Husbandry] <starting from the [Ancient era]>", "",],
 		"cities": ["Fawks City","Clover","Pylon","Torchfield","Bugbell","Pegasus","Sunshire","Halberd","Windfall",
 			"Fiddleford","Stonecloud","Redwood","Umbra Town","Solarpass","Mudslide","Firebrand","Waterlink","Fishrend","Cloudswrath",
 			"Goldhedge","Silverfield","Bronzepath","Frogshore","Nightwatch","Overgrowth","Vinewall","Dogport","Catrock","Bluecross",
