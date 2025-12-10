@@ -2,7 +2,7 @@
 	{
 		"name": "Athain",
 		"leaderName": "Agatha IV",
-		"adjective": ["athain"],
+		"adjective": ["Athain"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		
@@ -39,7 +39,7 @@
 	},
 	{
 		"name": "Kufawks",
-		"leaderName": "Fennera",
+		"leaderName": "Fennira",
 		"adjective": ["Fox"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
@@ -47,10 +47,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "I didn't want to do it, yip, but my advisors told me I have to declare war on you.",
+		"declaringWar": "I didn't want to do it, but my advisors told me I have to declare war on you, yip.",
 		"attacked": "You're gonna pay for that, yip! Not Cool!",
-		"defeated": "",
-		"introduction": "",
+		"defeated": "*sigh* Honestly, I had a feeling this was gonna happen eventually. I guess I'm not really cut out for this.",
+		"introduction": "Whoa, another nation, yip! I'm Fennira, the leader of these parts! Sorry if I'm a bit unprofessional, yip, I'm kinda new to this. I hope we can become friends, just keep your hands off my tail, yip!",
 
 		"neutralHello": "Oh, hi! How are you, yip?",
 		"neutralLetsHearIt": ["What's up?","Let's hear it!","hmm?"],
