@@ -55,7 +55,7 @@
 		"neutralHello": "Oh, Hi! How are you, yip?",
 		"neutralLetsHearIt": ["What's up?","Let's hear it!","hmm?"],
 		"neutralNo": ["No thanks.","Sorry, can't do that, yip.","No thanks, yip."],
-		"neutralYes": ["","",""],
+		"neutralYes": ["Deal, yip!","",""],
 
 		"hateHello": "",
 		"hateLetsHearIt": ["","",""],
@@ -66,9 +66,9 @@
 		"tradeRequest": "",
 		"denounced": "",
 
-		"outerColor": [13,59,102],
-		"innerColor": [255,121,108],
-		"uniqueName": "",
+		"outerColor": [251,175,0],
+		"innerColor": [251,80,18],
+		"uniqueName": "Vulpine Genes",
 		"uniques": [""],
 		"cities": ["Fawks City","Clover","Pylon","Torchfield","Bugbell","Pegasus","Sunshire","Halberd","Windfall",
 			"Fiddleford","Stonecloud","Redwood","Umbra Town","Solarpass","Mudslide","Firebrand","Waterlink","Fishrend","Cloudswrath",
