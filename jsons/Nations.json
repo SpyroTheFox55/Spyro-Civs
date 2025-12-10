@@ -47,24 +47,24 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "",
-		"attacked": "",
+		"declaringWar": "I didn't want to do it, yip, but my advisors told me I have to declare war on you.",
+		"attacked": "You're gonna pay for that, yip! Not Cool!",
 		"defeated": "",
 		"introduction": "",
 
-		"neutralHello": "Oh, Hi! How are you, yip?",
+		"neutralHello": "Oh, hi! How are you, yip?",
 		"neutralLetsHearIt": ["What's up?","Let's hear it!","hmm?"],
 		"neutralNo": ["No thanks.","Sorry, can't do that, yip.","No thanks, yip."],
-		"neutralYes": ["Deal, yip!","",""],
+		"neutralYes": ["Deal, yip!","I accept your offer, yip!","Yay!"],
 
-		"hateHello": "",
-		"hateLetsHearIt": ["","",""],
-		"hateNo": ["","",""],
-		"hateYes": ["","",""],
+		"hateHello": "Uh, hi.",
+		"hateLetsHearIt": ["hmm?","Can I help you?","..."],
+		"hateNo": ["I don't wanna do that, yip!","Uh... No...","I ain't taking that offer, yip."],
+		"hateYes": ["Whatever.","That's fine, yip.","ugh, fiiine."],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
-		"denounced": "",
+		"afterPeace": "Oh, thank goodness, yip! All that fighting made me sooo stressed!",
+		"tradeRequest": "You want something cool, yip?",
+		"denounced": "Not cool, yip!",
 
 		"outerColor": [251,175,0],
 		"innerColor": [251,80,18],
@@ -74,7 +74,7 @@
 		"cities": ["Fawks City","Fennix","Redfield","Cape Rev","Tilki","Vos Town","Vulpine Ridge","Alopeke City","Lomri City",
 			"Foxtrot","Cape Hu","Redwood","Mickel City","McCloud","Cape Renard","Zorro Town","Blanford","Ruppelli","Skulk",
 			"Tailbrush","Velox","Zerda City","Lagopus","Crystal Cove","Foxville","Chama Ridge","Griseus City","Cerdos Cove","Megalotis City",
-			"Raposa Town","Lisville","Delphine","Fawks' Ember","Roka City","Refur's Coast"]
-		"": 
+			"Raposa Town","Lisville","Delphine","Fawks' Ember","Roka City","Refur's Coast"],
+		"spyNames": ["Reynard", "Zorro", "Audie", "James", "Spyro", "Artie", "Dr. Gray", "Vixen", "Quincy", "Ember"] 
 	}
 ]
