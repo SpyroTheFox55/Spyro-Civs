@@ -2,7 +2,7 @@
 	{
 		"name": "Athain",
 		"leaderName": "Agatha IV",
-		"adjective": ["Athain"],
+		"adjective": ["Athainian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		
@@ -40,12 +40,12 @@
 	{
 		"name": "Vulperos",
 		"leaderName": "Fennira",
-		"adjective": ["Fox"],
+		"adjective": ["Vulperan"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Welcome, Prime Minister Fennira. In your world, you led the fox country of Vulperos from 1988 to 1995 CE as its Prime Minister, starting at age 21. This is because of your father pulling a few strings, foolishly hoping you'd help him consolidate power, not realizing your hatred of him and lack of education in the realm of politics. Despite your father's wishes, you tried your best to focus your efforts on helping your people and improving relations with other nations, among other things. In 1995, you decided to resign before the end of your term and pass the torch to a more capable candidate.",
-		"startIntroPart2": "",
+		"startIntroPart2": "Prime Minister, do you think you are up for the challenge once more? After all, what could possibly go wrong?",
 
 		"declaringWar": "I didn't want to do it, but my advisors told me I have to declare war on you, yip.",
 		"attacked": "You're gonna pay for that, yip! Not Cool!",
@@ -66,8 +66,8 @@
 		"tradeRequest": "You want something cool, yip?",
 		"denounced": "Not cool, yip!",
 
-		"outerColor": [251,175,0],
-		"innerColor": [251,80,18],
+		"innerColor": [251,175,0],
+		"outerColor": [251,80,18],
 		"uniqueName": "Vulpine Genes",
 		"uniques": ["Comment [All units are anthropomorphic foxes rather than humans. This does not affect gameplay.]", "Research [+25]% of [Animal Husbandry] <starting from the [Ancient era]>", 
 			"[+1] Range <for [Ranged] units>", "Gain an extra spy <upon entering the [Renaissance era]>"],
@@ -76,5 +76,122 @@
 			"Tailbrush","Velox","Zerda City","Lagopus","Crystal Cove","Foxville","Chama Ridge","Griseus City","Cerdos Cove","Megalotis City",
 			"Raposa Town","Lisville","Delphine","Fox's Ember","Roka City","Refur's Coast"],
 		"spyNames": ["Reynard", "Zorro", "Audie", "James", "Spyro", "Artie", "Dr. Gray", "Vixen", "Quincy", "Ember"] 
+	},
+	{
+		"name": "Velendii",
+		"leaderName": "Sorias the Magnificent",
+		"adjective": ["Velendiian"],
+		"startBias": [""],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"neutralLetsHearIt": ["","",""],
+		"neutralNo": ["","",""],
+		"neutralYes": ["","",""],
+
+		"hateHello": "",
+		"hateLetsHearIt": ["","",""],
+		"hateNo": ["","",""],
+		"hateYes": ["","",""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+		"denounced": "",
+
+		"outerColor": [115,251,211],
+		"innerColor": [141,161,185],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": ["","","","","","","","","",
+			"","","","","","","","","","",
+			"","","","","","","","","","",
+			"","","","","",""],
+		"spyNames": ["", "", "", "", "", "", "", "", "", ""]
+	},
+	{
+		"name": "Slythera",
+		"leaderName": "Blitz",
+		"adjective": ["Slytheran"],
+		"startBias": ["Avoid [Tundra]", "Avoid [Snow]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"neutralLetsHearIt": ["","",""],
+		"neutralNo": ["","",""],
+		"neutralYes": ["","",""],
+
+		"hateHello": "",
+		"hateLetsHearIt": ["","",""],
+		"hateNo": ["","",""],
+		"hateYes": ["","",""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+		"denounced": "",
+
+		"outerColor": [74,124,89],
+		"innerColor": [255,255,255],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": ["","","","","","","","","",
+			"","","","","","","","","","",
+			"","","","","","","","","","",
+			"","","","","",""],
+		"spyNames": ["", "", "", "", "", "", "", "", "", ""]
+	},
+	{
+		"name": "",
+		"leaderName": "",
+		"adjective": [""],
+		"startBias": [""],
+		"preferredVictoryType": "",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"neutralLetsHearIt": ["","",""],
+		"neutralNo": ["","",""],
+		"neutralYes": ["","",""],
+
+		"hateHello": "",
+		"hateLetsHearIt": ["","",""],
+		"hateNo": ["","",""],
+		"hateYes": ["","",""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+		"denounced": "",
+
+		"outerColor": [213,185,66],
+		"innerColor": [18,19,15],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": ["","","","","","","","","",
+			"","","","","","","","","","",
+			"","","","","","","","","","",
+			"","","","","",""],
+		"spyNames": ["", "", "", "", "", "", "", "", "", ""]
 	}
 ]
