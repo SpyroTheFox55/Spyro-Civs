@@ -156,6 +156,45 @@
 		"spyNames": ["", "", "", "", "", "", "", "", "", ""]
 	},
 	{
+		"name": "Assha",
+		"leaderName": "Nakemi",
+		"adjective": ["Asshan"],
+		"startBias": ["Tundra", "Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"neutralLetsHearIt": ["","",""],
+		"neutralNo": ["","",""],
+		"neutralYes": ["","",""],
+
+		"hateHello": "",
+		"hateLetsHearIt": ["","",""],
+		"hateNo": ["","",""],
+		"hateYes": ["","",""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+		"denounced": "",
+
+		"outerColor": [213,185,66],
+		"innerColor": [18,19,15],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": ["Kyo Millenium","Ami City","Yinba","Dot","Joji","Tsuga Village","Kagemi-Cho","Suma City","",
+			"","","","","","","","","","",
+			"","","","","","","","","","",
+			"","","","","",""],
+		"spyNames": ["", "", "", "", "", "", "", "", "", ""]
+	},
+	{
 		"name": "",
 		"leaderName": "",
 		"adjective": [""],
